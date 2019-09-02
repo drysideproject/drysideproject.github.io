@@ -33,7 +33,10 @@
     "versionFirst": "4.10.8",
     "siteFonts": [],
     "uniqCompNum": 23,
-    "versionPublish": "4.10.8"
+    "versionPublish": "4.10.8",
+    "favicon": "",
+    "noImageResize": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
